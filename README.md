@@ -1,4 +1,4 @@
-# MOVIE RECOMMENDATION SYSTEM
+<!-- # MOVIE RECOMMENDATION SYSTEM
 > Movie Recommendation System using PySpark, ALS, SQLLite (Movielens Dataset)
 
 ### REQUIREMENTS
@@ -74,4 +74,18 @@ movieId, imdbId, tmdbId
 
 The complete academic project report for **Movie Recommendation and User Behavior Analytics** is available below.
 
-📥 [View Project Report (PDF)](docs/Movie_Recommendation_Project_Report.pdf)
+📥 [View Project Report (PDF)](docs/Movie_Recommendation_Project_Report.pdf) -->
+
+
+
+---
+
+## 📄 Project Report
+
+### Movie Recommendation and User Behavior Analytics
+
+![Project Report Cover](docs/report-cover.png)
+
+**National Institute of Technology Delhi**
+
+[📥 View Full Project Report (PDF)](docs/Movie_Recommendation_Project_Report.pdf)

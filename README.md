@@ -82,9 +82,9 @@ The complete academic project report for **Movie Recommendation and User Behavio
 
 ## 📄 Project Report
 
-**Movie Recommendation and User Behavior Analytics**
+<!-- **Movie Recommendation and User Behavior Analytics**
 
-![Project Report Cover](docs/report-cover.png)
+![Project Report Cover](docs/report-cover.png) -->
 
 **National Institute of Technology Delhi**
 

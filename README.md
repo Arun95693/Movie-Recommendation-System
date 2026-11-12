@@ -76,8 +76,6 @@ The complete academic project report for **Movie Recommendation and User Behavio
 
 📥 [View Project Report (PDF)](docs/Movie_Recommendation_Project_Report.pdf) -->
 
-
-
 ---
 
 ## 📄 Project Report

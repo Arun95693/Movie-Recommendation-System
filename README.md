@@ -65,3 +65,13 @@ movieId, imdbId, tmdbId
 ***Please edit the filter .filter("User_Id = N") with the user's ID (N) according to the user you want.***
 
 ![ex_system_output](https://user-images.githubusercontent.com/68853621/164270057-f9e6c690-8524-490a-8730-3b5cb7885fb2.jpg)
+
+
+
+---
+
+## 📄 Project Report
+
+The complete academic project report for **Movie Recommendation and User Behavior Analytics** is available below.
+
+📥 [View Project Report (PDF)](docs/Movie_Recommendation_Project_Report.pdf)
